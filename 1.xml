@@ -46,7 +46,7 @@ html, body {
 
 <script>
 window.GAME_CFG = {
-  BUILD_CDN:  "https://cdn.jsdelivr.net/gh/GoatedWallace/RiftR@main/Build/",
+  BUILD_CDN:  "https://cdn.jsdelivr.net/gh/GoatedWallaceUG/RiftR@main/Build/",
   LOADER:     "39.loader.js",
   FRAMEWORK:  "39.framework.js",
   DATA:       "39.data",
